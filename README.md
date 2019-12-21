@@ -11,6 +11,6 @@
 
 ### Bahan-bahan untuk sc nya ada di dalam script
 ### Silahkan pilih install bahan
-###Agar sc nya tidak error
+### Agar sc nya tidak error
 
-###Salam saya Mr.Đ`HACK :]
+### Salam saya Mr.Đ`HACK :]
