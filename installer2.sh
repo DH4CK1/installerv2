@@ -225,7 +225,7 @@ then
     ls
     clear
     python LITESCRIPT.py
-elif [ $pil = "11"
+elif [ $pil = "11" ]
 then
     echo $i "open the script......."
     sleep 1
@@ -270,7 +270,7 @@ then
     ls
     clear
     sh msf.sh
-elif [ $pil = "15"
+elif [ $pil = "15" ]
 then
     echo $i "open the script......"
     sleep 1
