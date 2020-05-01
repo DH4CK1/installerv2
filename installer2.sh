@@ -89,7 +89,7 @@ echo $pu "<===============================>"
 sleep 1
 echo ""
 sleep 1.50
-printf $pu"["$me"$pu"] "$bi"PILIH"$me": "$pu
+printf "[*] PILIH: "
 read pil;
 if [ $pil = "1" ]
 then
