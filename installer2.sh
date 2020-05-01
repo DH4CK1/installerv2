@@ -89,7 +89,8 @@ echo $pu "<===============================>"
 sleep 1
 echo ""
 sleep 1.50
-read -p "pilih script yang ingin dipakai : " pil;
+printf $pu"["$me"$pu"] "$bi"PILIH"$me": "$pu
+read pil;
 if [ $pil = "1" ]
 then
     echo $i "Loading....."
